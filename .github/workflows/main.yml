@@ -1,14 +1,3 @@
-❌ Error Hai - File Mein Pehle Se Kuch Likha Hai
-File ko poora replace karna padega.
-
-✅ Solution: Poora File Replace Karo
-Step 1: File Kholo
-.github/workflows/main.yml file edit mode mein kholo
-
-Step 2: Purana Content Delete Karo
-Saara purana text delete kar do (Ctrl+A → Delete)
-
-Step 3: Naya Code Paste Karo
 name: Build APK
 
 on:
