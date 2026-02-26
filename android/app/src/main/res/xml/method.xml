@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="com.example.hfc_keyboard.MainActivity"
+    android:supportsInlineCompletion="false"
+    android:isDefault="false">
+    
+    <subtype
+        android:label="@string/keyboard_name"
+        android:imeSubtypeLocale="en"
+        android:imeSubtypeMode="keyboard"
+        android:imeSubtypeExtraValue="TreatAsExtractedIme,SuppressLanguageSwitchKey,AsciiCapable"
+        android:isAsciiCapable="true"
+        android:overridesImplicitlyEnabledSubtype="true" />
+        
+</input-method>

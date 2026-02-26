@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.HFCKeyboard" parent="Theme.Material3.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary_cyan</item>
+        <item name="colorPrimaryVariant">@color/primary_cyan</item>
+        <item name="colorOnPrimary">@color/dark_bg</item>
+        <item name="colorSecondary">@color/primary_magenta</item>
+        <item name="colorSecondaryVariant">@color/primary_magenta</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/dark_bg</item>
+        <item name="android:navigationBarColor">@color/dark_bg</item>
+        <item name="android:windowBackground">@color/dark_bg</item>
+        <item name="android:colorBackground">@color/dark_bg</item>
+        <item name="backgroundColor">@color/dark_bg</item>
+    </style>
+
+    <!-- Launch theme -->
+    <style name="LaunchTheme" parent="Theme.HFCKeyboard">
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+
+    <!-- Normal theme -->
+    <style name="NormalTheme" parent="Theme.HFCKeyboard">
+        <item name="android:windowBackground">@color/dark_bg</item>
+    </style>
+</resources>

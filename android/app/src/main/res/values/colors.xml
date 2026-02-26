@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_cyan">#00D9FF</color>
+    <color name="primary_magenta">#FF006E</color>
+    <color name="primary_green">#00FF00</color>
+    <color name="dark_bg">#0D0D0D</color>
+    <color name="dark_surface">#1A1A1A</color>
+    <color name="text_light">#CCCCCC</color>
+    <color name="text_dark">#888888</color>
+    <color name="key_bg">#00D9FF</color>
+    <color name="key_bg_modifier">#1A1A1A</color>
+    <color name="key_bg_pressed">#00FF00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

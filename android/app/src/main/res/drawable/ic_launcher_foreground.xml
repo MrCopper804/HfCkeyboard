@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Keyboard icon shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,36h60v36h-60z"/>
+    
+    <!-- Key rows -->
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M28,40h8v8h-8z"/>
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M40,40h8v8h-8z"/>
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M52,40h8v8h-8z"/>
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M64,40h8v8h-8z"/>
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M76,40h8v8h-8z"/>
+    
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M28,52h8v8h-8z"/>
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M40,52h8v8h-8z"/>
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M52,52h8v8h-8z"/>
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M64,52h8v8h-8z"/>
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M76,52h8v8h-8z"/>
+    
+    <!-- Space bar -->
+    <path
+        android:fillColor="#0D0D0D"
+        android:pathData="M36,64h36v8h-36z"/>
+</vector>

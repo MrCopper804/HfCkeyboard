@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HFC Keyboard</string>
+    <string name="keyboard_name">HFC Keyboard</string>
+    <string name="ime_name">HFC System Keyboard</string>
+    <string name="settings_title">HFC Keyboard Settings</string>
+</resources>
